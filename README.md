@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gramchelle" alt="gramchelle" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot with Java**
+- 🔭 I’m currently working on **Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Spring Boot with Java**
 
 - 💬 Ask me about **Anything related with data!**
 
