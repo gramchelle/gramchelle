@@ -11,7 +11,7 @@
 
 - ✨ Highly interested with defense industry and aircrafts.
 
-<h3 align="center">✨ A leet code a day, keeps unemployment away ✨</h3>
+<h3 align="center">✨ A leetcode a day, keeps nightmares away ✨</h3>
 
 <h3 align="left">To reach out:</h3>
 <p align="left">
