@@ -9,12 +9,13 @@
 
 - 💬 Ask me about **Anything related with data!**
 
-- Also, highly interested with defense industry and aircrafts.
+- ✨ Highly interested with defense industry and aircrafts.
+
+<h3 align="center">✨ A leet code a day, keeps unemployment away ✨</h3>
 
 <h3 align="left">To reach out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozlemnurduman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozlemnurduman" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/gramchelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ozlemnurduman" height="30" width="40" /></a>
 <a href="https://medium.com/@ozlemnduman34" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" alt="ozlemnurduman" height="30" width="40" /></a>
-<a href="ozlemnduman34@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ozlemnurduman" height="30" width="40" /></a>
 </p>
