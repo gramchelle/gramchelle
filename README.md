@@ -1,21 +1,9 @@
 <h1 align="center">Hello there 👋, this is Özlem</h1>
-<h3 align="center">I am a passionate Data Scientist and Junior Software Engineering Student</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gramchelle" alt="gramchelle" /></a> </p>
+- I’m currently working on **Embedded Systems Development**
 
-- 🔭 I’m currently working on **Object Detection and Image Classification**
+- Highly interested with data manipulation and data applications.
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
-
-- 💬 Ask me about **Anything related with data!**
-
-- ✨ Highly interested with defense industry and aircrafts.
-
-<h3 align="center">✨ A leetcode a day, keeps nightmares away ✨</h3>
-
-<h3 align="left">To reach out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozlemnurduman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozlemnurduman" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/gramchelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ozlemnurduman" height="30" width="40" /></a>
-<a href="https://medium.com/@ozlemnduman34" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" alt="ozlemnurduman" height="30" width="40" /></a>
-</p>
